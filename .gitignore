@@ -1,2 +1,3 @@
 js/
  *.txt
+!index3.txt
